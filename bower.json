@@ -1,0 +1,14 @@
+{
+  "name": "embed-decipher",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "c3": "~0.4.10",
+    "foundation-sass": "~5.5.2",
+    "foundation": "~5.5.3"
+  }
+}

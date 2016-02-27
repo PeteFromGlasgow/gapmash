@@ -1,0 +1,4446 @@
+[{
+	"programme_name": "Heatweb",
+	"project_name": "MMSP",
+	"property_code": "TIL1",
+	"property_type": "Factory",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Derwenthorpe",
+	"property_code": "Plot 1",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Retrofitting a post Decent Home/Scottish Housing Quality Standard, concrete no-fines property",
+	"property_code": "TSB092",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Poplar Road, Brixton",
+	"property_code": "TSB067",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 98.74,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "A2Dominion- Pinner Road, North Harrow",
+	"property_code": "TSB049",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "A2Dominion- Pinner Road, North Harrow",
+	"property_code": "TSB048",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Demonstration of low carbon refurbishment of off-gas homes using Sunergy solar energy system integrated with a prototype heat engine ",
+	"property_code": "TSB089",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "L&Q Group, London",
+	"property_code": "TSB066",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Retrofitting a post Decent Homes Standard, timber frame property",
+	"property_code": "TSB091",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "bringing wates homes into the future 2",
+	"property_code": "TSB011",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Interface Support Products for Existing Technologies",
+	"property_code": "TSB058",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Sinclair Meadows Carbon Negative Community Village",
+	"property_code": "450099a",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 66.51,
+		"ber": -16.67,
+		"ter": 23.97,
+		"total_volume": 166.28,
+		"annual_heating_load": 3381.71,
+		"total_rooms": 3
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Sinclair Meadows Carbon Negative Community Village",
+	"property_code": "",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "A2 Dominion- Bournemead Close, Northholt",
+	"property_code": "TSB083",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "pre"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Seager Distillery Site Housing Development",
+	"property_code": "Plot 2",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "73.68",
+		"ber": "13.12",
+		"ter": "21.12",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "170.2",
+		"annual_heating_load": "2810.27",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "73.68",
+		"ber": "13.82",
+		"ter": "21.12",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "170.2",
+		"annual_heating_load": "2810.27",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Seager Distillery Site Housing Development",
+	"property_code": "Plot 3",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "63.3",
+		"ber": "14.34",
+		"ter": "23.9",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "161.6",
+		"annual_heating_load": "2645.01",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "63.3",
+		"ber": "14.6",
+		"ter": "23.9",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "161.6",
+		"annual_heating_load": "2340.79",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Seager Distillery Site Housing Development",
+	"property_code": "Plot 1",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.27",
+		"ber": "12.31",
+		"ter": "21.34",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "104.57",
+		"annual_heating_load": "2347.55",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.27",
+		"ber": "12.77",
+		"ter": "21.34",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "104.57",
+		"annual_heating_load": "2347.55",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Hard to heat homes",
+	"property_code": "TSB112",
+	"property_type": "Bungalow",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "South Wight HA retrofit",
+	"property_code": "TSB124",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Flagship Retrofit - Incentivising Building Occupants",
+	"property_code": "TSB099",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Flagship Retrofit - Incentivising Building Occupants",
+	"property_code": "TSB088",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Refurbishment of Social Housing Stock",
+	"property_code": "TSB005",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Refurbishment of Social Housing Stock",
+	"property_code": "TSB006",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "ECD architects - Compton, Berkshire ",
+	"property_code": "TSB036",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Maple Avenue, South Chingford - Ascham Homes: low carbon refurnishment of typical London 1960's street property",
+	"property_code": "TSB123",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Maple Avenue, South Chingford - Ascham Homes: low carbon refurnishment of typical London 1960's street property",
+	"property_code": "TSB039",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Cross Lane Development, Barnsley",
+	"property_code": "Plot 5",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "82",
+		"ber": "5.87",
+		"ter": "19.01",
+		"event_type": "As designed",
+		"occupancy_total": "4",
+		"total_volume": "202.95",
+		"annual_heating_load": "2461.08",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "82",
+		"ber": "6.05",
+		"ter": "19.02",
+		"event_type": "As built",
+		"occupancy_total": "4",
+		"total_volume": "202.95",
+		"annual_heating_load": "2460.08",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Wimpey No-Fines retrofit upgrade",
+	"property_code": "TSB046",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Melin Homes",
+	"property_code": "TSB120",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Melin Homes",
+	"property_code": "TSB030",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "ReHab-Retrofitting behaviours, technologies and processes to tackle our domestic Carbon addiction",
+	"property_code": "TSB098",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "WHISCERS - Whole House In-Situ Carbon and Energy Reduction Solution",
+	"property_code": "TSB084",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "planned"
+	}, {
+		"gross_internal_area": "115.0",
+		"event_type": "pre"
+	}, {
+		"gross_internal_area": "115.0",
+		"event_type": "post",
+		"annual_heating_load": "3282.0"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Tackling low carbon retrofit of larger terraced housing in Conservation Areas",
+	"property_code": "TSB125",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Tackling low carbon retrofit of larger terraced housing in Conservation Areas",
+	"property_code": "TSB111",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "SNW Home retrofit - Crawley Homes",
+	"property_code": "TSB042",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 83.16,
+		"ber": null,
+		"ter": null,
+		"total_volume": 193.25,
+		"annual_heating_load": 5004,
+		"total_rooms": 8
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Walker Garden Suburb",
+	"property_code": "TSB094",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Community In A Cube apartment at Riverside One, Middlesbrough",
+	"property_code": "",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 48.2,
+		"ber": 16.15,
+		"ter": null,
+		"total_volume": 125.32,
+		"annual_heating_load": 1411.8,
+		"total_rooms": 5
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Lea Field Court, Huntington",
+	"property_code": "Plot 2",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Lea Field Court, Huntington",
+	"property_code": "Plot 1",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Mayfair Place, Tuxford for A1 Housing Association",
+	"property_code": "TSB073",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "88.64",
+		"event_type": "post",
+		"total_volume": "213.62",
+		"annual_heating_load": "3163.65"
+	}, {
+		"gross_internal_area": "88.64",
+		"event_type": "pre",
+		"total_volume": "213.62"
+	}, {
+		"gross_internal_area": "88.64",
+		"event_type": "planned",
+		"total_volume": "213.62",
+		"annual_heating_load": "3163.65"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Thermal Store retrofit pilot",
+	"property_code": "TSB053",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "90.48",
+		"event_type": "planned",
+		"total_volume": "236.26",
+		"annual_heating_load": "1350.21"
+	}, {
+		"gross_internal_area": "90.48",
+		"event_type": "post",
+		"total_volume": "236.26",
+		"annual_heating_load": "1350.21"
+	}, {
+		"gross_internal_area": "90.48",
+		"event_type": "pre",
+		"total_volume": "236.26"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Plummerswood",
+	"property_code": "Plummerswood",
+	"property_type": "",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Crawley New Town retrofit",
+	"property_code": "TSB047",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "L&Q Group, Wembley",
+	"property_code": "TSB065",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "106.0",
+		"event_type": "post",
+		"total_volume": "291.34",
+		"annual_heating_load": "1180.0"
+	}, {
+		"gross_internal_area": "106.0",
+		"event_type": "planned",
+		"total_volume": "291.34"
+	}, {
+		"gross_internal_area": "106.0",
+		"event_type": "pre",
+		"total_volume": "291.34"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Isos Housing Group - End Terrace Retrofit",
+	"property_code": "TSB061",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "68.0",
+		"ber": "80.6",
+		"ter": "27.0",
+		"event_type": "pre",
+		"total_volume": "190.0",
+		"annual_heating_load": "3910.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "68.0",
+		"ber": "10.34",
+		"ter": "27.0",
+		"event_type": "planned",
+		"total_volume": "190.0",
+		"annual_heating_load": "1671.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "68.0",
+		"ber": "10.34",
+		"ter": "27.0",
+		"event_type": "post",
+		"total_volume": "190.0",
+		"annual_heating_load": "1671.0",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rural solid wall terrace house - 80% carbon emission reduction",
+	"property_code": "TSB026",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "85.69",
+		"event_type": "pre",
+		"total_volume": "197.35"
+	}, {
+		"gross_internal_area": "85.69",
+		"event_type": "post",
+		"total_volume": "197.35",
+		"annual_heating_load": "1173.37"
+	}, {
+		"gross_internal_area": "85.69",
+		"event_type": "planned",
+		"total_volume": "197.35",
+		"annual_heating_load": "1173.37"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Retrofit to Fairchildes Cottages, Surrey",
+	"property_code": "TSB074",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 76.9,
+		"ber": 155,
+		"ter": null,
+		"total_volume": 179.41,
+		"annual_heating_load": 1753.55,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Eco-retrofit Brierfield",
+	"property_code": "TSB122",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 169.12,
+		"ber": null,
+		"ter": null,
+		"total_volume": 405.89,
+		"annual_heating_load": 2644.12,
+		"total_rooms": 11
+	}, {
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Cornish Unit Retrofit",
+	"property_code": "TSB041",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Improvement to a 1930s Semi-Detached Property in Whitehaven",
+	"property_code": "TSB062",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "82.0",
+		"ber": "71.2",
+		"event_type": "pre",
+		"total_volume": "188.0",
+		"annual_heating_load": "45.1",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "82.0",
+		"ber": "8.5",
+		"event_type": "post",
+		"total_volume": "188.0",
+		"annual_heating_load": "19.6",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "82.0",
+		"ber": "8.5",
+		"event_type": "planned",
+		"total_volume": "188.0",
+		"annual_heating_load": "19.6",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Enfield Homes",
+	"property_code": "TSB044",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "East Thames Group - Low carbon refurbishment of a typical London Victorian street property",
+	"property_code": "TSB009",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "85.57",
+		"event_type": "post",
+		"total_volume": "213.84",
+		"annual_heating_load": "1169.66",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "85.57",
+		"event_type": "pre",
+		"total_volume": "213.84",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "85.57",
+		"event_type": "planned",
+		"total_volume": "213.84",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Eco-retrofit Orpington - a multiple house solution",
+	"property_code": "TSB076",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 76,
+		"ber": null,
+		"ter": null,
+		"total_volume": 229.2,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Low Carbon Retrofit in the Queens Park Estate Conservation Area",
+	"property_code": "TSB043",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "wakefield and district housing retrofit 2",
+	"property_code": "TSB020",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "86.54",
+		"ber": "35.16",
+		"event_type": "pre",
+		"total_volume": "217.03",
+		"annual_heating_load": "3341.73",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "86.54",
+		"event_type": "planned",
+		"total_volume": "217.03",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "86.54",
+		"event_type": "post",
+		"total_volume": "217.03",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "A Whole House Low Carbon Solution for Everyday Living",
+	"property_code": "TSB072",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "planned"
+	}, {
+		"event_type": "pre"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Tower Hamlets Passivhaus Retrofit - Passfield Drive",
+	"property_code": "TSB108 ",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "96.24",
+		"event_type": "planned",
+		"total_volume": "223.16",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "96.24",
+		"event_type": "post",
+		"total_volume": "223.16",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "98.05",
+		"event_type": "pre",
+		"total_volume": "237.167",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Birchway Eco Community",
+	"property_code": "Plot 1",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 47.2,
+		"ber": 0.02,
+		"ter": 27.5,
+		"total_volume": 113.28,
+		"annual_heating_load": 51.1,
+		"total_rooms": 4
+	}, {
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Project Cottesmore",
+	"property_code": "TSB057",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}, {
+		"gross_internal_area": 64.74,
+		"ber": null,
+		"ter": null,
+		"total_volume": 170.92,
+		"annual_heating_load": null,
+		"total_rooms": 7
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "BISF Steel Frame House - 80% Carbon Dioxide emmision reduction",
+	"property_code": "TSB025",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "87.62",
+		"event_type": "post",
+		"total_volume": "221.0"
+	}, {
+		"gross_internal_area": "87.62",
+		"event_type": "pre",
+		"total_volume": "221.0"
+	}, {
+		"gross_internal_area": "87.62",
+		"event_type": "planned",
+		"total_volume": "221.01",
+		"annual_heating_load": "2106.96"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Eco-retrofit Ealing",
+	"property_code": "TSB033",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "post"
+	}, {
+		"event_type": "pre"
+	}, {
+		"event_type": "planned"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "A New Code 4 Approach - High Fabric Insulation with Simple Heating Service",
+	"property_code": "Plot 5",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 90,
+		"ber": null,
+		"ter": 32.13,
+		"total_volume": 226.5,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Self Heating Social Housing- the zero carbon retrofit",
+	"property_code": "TSB010",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "70.99",
+		"event_type": "post",
+		"total_volume": "179.73"
+	}, {
+		"gross_internal_area": "70.99",
+		"event_type": "pre"
+	}, {
+		"gross_internal_area": "70.99",
+		"event_type": "planned",
+		"annual_heating_load": "2765.0"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "NEW FROM OLD",
+	"property_code": "TSB086",
+	"property_type": "Bungalow",
+	"profiles": [{
+		"event_type": "post",
+		"total_volume": "175.94",
+		"annual_heating_load": "45.0"
+	}, {
+		"event_type": "pre",
+		"total_volume": "175.94",
+		"annual_heating_load": "86.0"
+	}, {
+		"gross_internal_area": "75.29",
+		"event_type": "planned",
+		"total_volume": "175.94",
+		"annual_heating_load": "1040.0"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 6",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 12",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 2",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "External environmental conditions",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 7",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 14",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 3",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 5",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 9",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 11",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 4",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 13",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 10",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 8",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Hastoe HA - 14 Passivhaus dwellings. Wimbish",
+	"property_code": "Property 1",
+	"property_type": "Flat",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Decent Homes versus PassivHaus 2",
+	"property_code": "TSB070",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 114.58,
+		"ber": null,
+		"ter": null,
+		"total_volume": 302.89,
+		"annual_heating_load": 1323.22,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Decent Homes versus PassivHaus 2",
+	"property_code": "TSB071",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Retrofit & Replicate II",
+	"property_code": "TSB034",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "62.58",
+		"event_type": "planned",
+		"total_volume": "165.54",
+		"annual_heating_load": "2509.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "62.58",
+		"event_type": "post",
+		"total_volume": "165.54",
+		"annual_heating_load": "2509.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "62.58",
+		"event_type": "pre",
+		"total_volume": "165.54",
+		"annual_heating_load": "2509.0",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Riverside HA - Semi-Rural 2 Bed Semi-Detached House",
+	"property_code": "TSB063",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "63.8",
+		"ber": "9.6",
+		"ter": "32.4",
+		"event_type": "intervention_1",
+		"total_volume": "149.9",
+		"annual_heating_load": "963.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "63.8",
+		"ber": "9.6",
+		"ter": "32.4",
+		"event_type": "post",
+		"total_volume": "149.9",
+		"annual_heating_load": "963.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "63.8",
+		"ber": "9.6",
+		"ter": "32.4",
+		"event_type": "planned",
+		"total_volume": "149.9",
+		"annual_heating_load": "963.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "63.8",
+		"ber": "86.9",
+		"ter": "32.4",
+		"event_type": "pre",
+		"total_volume": "149.9",
+		"annual_heating_load": "2303.0",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Peterborough EnviroCluster Retrofit Project",
+	"property_code": "TSB110",
+	"property_type": "Other (please specify)",
+	"profiles": [{
+		"event_type": "post",
+		"total_rooms": "6"
+	}, {
+		"event_type": "planned",
+		"total_rooms": "6"
+	}, {
+		"event_type": "pre",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Bringing Wates homes into the Future",
+	"property_code": "TSB106",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "pre"
+	}, {
+		"event_type": "planned"
+	}, {
+		"event_type": "post"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Hastoe Housing Association",
+	"property_code": "TSB035",
+	"property_type": "Bungalow",
+	"profiles": [{
+		"gross_internal_area": "41.5",
+		"event_type": "planned",
+		"total_volume": "134.0",
+		"annual_heating_load": "19.0",
+		"total_rooms": "4"
+	}, {
+		"gross_internal_area": "51.0",
+		"event_type": "pre",
+		"total_volume": "134.0",
+		"annual_heating_load": "0.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "41.5",
+		"event_type": "post",
+		"total_volume": "134.0",
+		"annual_heating_load": "19.0",
+		"total_rooms": "4"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "LHA Total Retrofit Solution - Retrofitting 2 seperate properties",
+	"property_code": "TSB056",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "77.64",
+		"ber": "10.47",
+		"ter": "22.09",
+		"event_type": "planned",
+		"total_volume": "199.44",
+		"annual_heating_load": "4.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "77.64",
+		"ber": "64.5",
+		"ter": "22.09",
+		"event_type": "pre",
+		"total_volume": "199.44",
+		"annual_heating_load": "10.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "77.64",
+		"ber": "10.47",
+		"ter": "22.09",
+		"event_type": "post",
+		"total_volume": "199.44",
+		"annual_heating_load": "4.0",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "LHA Total Retrofit Solution - Retrofitting 2 seperate properties",
+	"property_code": "TSB055",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "86.7",
+		"ber": "9.25",
+		"ter": "23.5",
+		"event_type": "post",
+		"total_volume": "220.16",
+		"annual_heating_load": "1773.0",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "86.7",
+		"ber": "64.5",
+		"ter": "23.5",
+		"event_type": "pre",
+		"total_volume": "220.16",
+		"annual_heating_load": "2222.0",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "86.7",
+		"ber": "9.25",
+		"ter": "23.5",
+		"event_type": "planned",
+		"total_volume": "220.16",
+		"annual_heating_load": "1773.0",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "SOLAR HOUSE 80/50",
+	"property_code": "TSB031",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "106.47",
+		"event_type": "post",
+		"total_volume": "235.59"
+	}, {
+		"gross_internal_area": "106.47",
+		"event_type": "pre",
+		"total_volume": "235.59"
+	}, {
+		"gross_internal_area": "106.47",
+		"event_type": "planned",
+		"total_volume": "235.59",
+		"annual_heating_load": "1350.76"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Eco-retrofit Colne",
+	"property_code": "TSB052 \t\t",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "88.78",
+		"event_type": "pre",
+		"total_volume": "213.07",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "88.78",
+		"event_type": "planned",
+		"total_volume": "213.07",
+		"annual_heating_load": "2991.5",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Inspiration Birmingham 2020",
+	"property_code": "TSB029",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "159.54",
+		"ber": "0.0",
+		"ter": "0.0",
+		"event_type": "planned",
+		"total_volume": "459.84",
+		"annual_heating_load": "3246.17",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "159.54",
+		"ber": "0.0",
+		"ter": "0.0",
+		"event_type": "post",
+		"total_volume": "459.84",
+		"annual_heating_load": "3246.17",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "159.54",
+		"event_type": "pre",
+		"total_volume": "1372.0",
+		"annual_heating_load": "3246.17",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Post Second World War suburban mid terrace house - 80% carbon emission reduction ",
+	"property_code": "TSB027",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "60.0",
+		"event_type": "planned",
+		"total_volume": "149.4",
+		"annual_heating_load": "1695.68",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "60.0",
+		"ber": "53.58",
+		"ter": "25.35",
+		"event_type": "pre",
+		"total_volume": "149.4",
+		"annual_heating_load": "3536.37",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "60.0",
+		"event_type": "post",
+		"total_volume": "149.4",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Cambridge Housing Society - Adelaide Waters Almshouses",
+	"property_code": "TSB040",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "30.0",
+		"event_type": "post",
+		"total_volume": "81.0",
+		"total_rooms": "4"
+	}, {
+		"gross_internal_area": "30.0",
+		"event_type": "planned",
+		"total_volume": "81.0",
+		"total_rooms": "4"
+	}, {
+		"gross_internal_area": "30.0",
+		"event_type": "pre",
+		"total_volume": "81.0",
+		"total_rooms": "4"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "The Oxford Whole House Carbon Reduction Project",
+	"property_code": "TSB054",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "78.0",
+		"event_type": "post",
+		"total_volume": "180.47",
+		"annual_heating_load": "1723.2",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "78.0",
+		"event_type": "pre",
+		"total_volume": "180.47",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "78.0",
+		"event_type": "planned",
+		"total_volume": "180.47",
+		"annual_heating_load": "1723.2",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "rotherham 2010: wath road, brampton 2",
+	"property_code": "TSB016",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 79.54,
+		"ber": null,
+		"ter": null,
+		"total_volume": 203.28,
+		"annual_heating_load": null,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "rotherham 2010: wath road, brampton 2",
+	"property_code": "TSB015",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 79.54,
+		"ber": 27.8,
+		"ter": null,
+		"total_volume": 203.28,
+		"annual_heating_load": 3253,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "rotherham 2010: wath road, brampton 2",
+	"property_code": "TSB012",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 79.54,
+		"ber": 37.31,
+		"ter": null,
+		"total_volume": 203.28,
+		"annual_heating_load": 3253,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Decent Homes versus PassivHaus",
+	"property_code": "TSB028",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "114.58",
+		"ber": "93.91",
+		"event_type": "pre",
+		"total_volume": "302.89",
+		"annual_heating_load": "9647.08",
+		"total_rooms": "4"
+	}, {
+		"gross_internal_area": "114.58",
+		"ber": "10.69",
+		"event_type": "planned",
+		"total_volume": "302.89",
+		"annual_heating_load": "1323.22",
+		"total_rooms": "4"
+	}, {
+		"event_type": "post",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Solid wall Victorian house in Conservation Area - 80% carbon emission reduction",
+	"property_code": "TSB024",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "87.38",
+		"event_type": "planned",
+		"total_volume": "245.63",
+		"annual_heating_load": "2097.74",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "87.38",
+		"event_type": "post",
+		"total_volume": "245.63",
+		"annual_heating_load": "2097.74",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "87.38",
+		"event_type": "pre",
+		"total_volume": "245.63",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Hanley Passivhaus ",
+	"property_code": "TSB096",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "64.0",
+		"event_type": "planned",
+		"total_volume": "149.96",
+		"annual_heating_load": "1022.01"
+	}, {
+		"gross_internal_area": "64.0",
+		"event_type": "post",
+		"total_volume": "149.96"
+	}, {
+		"gross_internal_area": "64.0",
+		"event_type": "pre",
+		"total_volume": "149.96",
+		"annual_heating_load": "1022.01",
+		"total_rooms": "4"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Retrofitting to Passivhaus standards",
+	"property_code": "TSB113",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "post"
+	}, {
+		"event_type": "pre"
+	}, {
+		"event_type": "planned"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Passiv Haus Retrofit: refurb and regenerate",
+	"property_code": "TSB 085",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "89.2",
+		"event_type": "post",
+		"total_volume": "227.56",
+		"annual_heating_load": "2098.12",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "89.2",
+		"event_type": "planned",
+		"total_volume": "227.56",
+		"annual_heating_load": "2098.12",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "89.2",
+		"event_type": "pre",
+		"total_volume": "227.56",
+		"annual_heating_load": "4709.68",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Addressing Energy Consumption and Climate Change Adaptation in non-South facing, post-Decent Homes properties.",
+	"property_code": "TSB008",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "99.0",
+		"ber": "6.65",
+		"event_type": "post",
+		"total_volume": "216.0",
+		"annual_heating_load": "2184.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "99.0",
+		"ber": "6.65",
+		"event_type": "planned",
+		"total_volume": "216.0",
+		"annual_heating_load": "2184.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "84.0",
+		"ber": "27.51",
+		"event_type": "pre",
+		"total_volume": "206.0",
+		"annual_heating_load": "3105.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "84.0",
+		"ber": "6.65",
+		"event_type": "intervention_1",
+		"total_volume": "206.0",
+		"annual_heating_load": "2184.0",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Eco-Energy Retrofit, Grove Housing Association, Belfast",
+	"property_code": "TSB001",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "85.0",
+		"event_type": "post",
+		"total_volume": "212.5",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "85.0",
+		"ber": "7.11",
+		"ter": "21.66",
+		"event_type": "planned",
+		"total_volume": "212.5",
+		"annual_heating_load": "43.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "85.0",
+		"event_type": "pre",
+		"total_volume": "212.5",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Wolfe crescent - How low can we go?",
+	"property_code": "TSB007",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "81.56",
+		"event_type": "pre",
+		"total_volume": "287.0"
+	}, {
+		"gross_internal_area": "81.56",
+		"event_type": "post",
+		"total_volume": "287.0"
+	}, {
+		"gross_internal_area": "81.56",
+		"event_type": "planned",
+		"total_volume": "287.0",
+		"annual_heating_load": "1157.0"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "whole house retrofit of a typical Victorian solid wall detached property in Brighton",
+	"property_code": "TSB090",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "177.0",
+		"ber": "23.0",
+		"event_type": "planned",
+		"total_volume": "468.3",
+		"annual_heating_load": "16.0",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "177.0",
+		"event_type": "post",
+		"total_volume": "468.3",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "177.0",
+		"ber": "62.6",
+		"event_type": "pre",
+		"total_volume": "468.3",
+		"annual_heating_load": "43.0",
+		"total_rooms": "10"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Retrofit - Appledore, Ashford",
+	"property_code": "TSB101",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "90.0",
+		"event_type": "pre",
+		"total_volume": "206.0"
+	}, {
+		"gross_internal_area": "90.0",
+		"event_type": "post",
+		"total_volume": "206.0",
+		"annual_heating_load": "2922.83"
+	}, {
+		"gross_internal_area": "90.0",
+		"event_type": "planned",
+		"total_volume": "206.0",
+		"annual_heating_load": "2922.83"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Retrofit - Appledore, Ashford",
+	"property_code": "TSB093",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "90.0",
+		"event_type": "pre",
+		"total_volume": "206.0"
+	}, {
+		"gross_internal_area": "90.0",
+		"ber": "0.0",
+		"ter": "0.0",
+		"event_type": "planned",
+		"total_volume": "206.0",
+		"annual_heating_load": "2922.83"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Lancaster Cohousing, Forgebank ",
+	"property_code": "Lancaster Cohousing",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Hounslow Passivhaus Retrofit",
+	"property_code": "TSB109",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "82.68",
+		"event_type": "post",
+		"total_volume": "207.04",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "82.68",
+		"event_type": "planned",
+		"total_volume": "207.04",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "82.68",
+		"event_type": "pre",
+		"total_volume": "207.04",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowan House Passivhaus Social Housing for Exeter City Council",
+	"property_code": "BPE029_BI81",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowan House Passivhaus Social Housing for Exeter City Council",
+	"property_code": "BPE030_BI81",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "In-use BPE study of low energy houses at Pippin Close & Barnlea Close",
+	"property_code": "16 Barnlea Close",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "In-use BPE study of low energy houses at Pippin Close & Barnlea Close",
+	"property_code": "2 Pippin Close",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit Bid 2: Raeburn Road",
+	"property_code": "TSB079",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 79.26,
+		"ber": 13.55,
+		"ter": 23.85,
+		"total_volume": 192.69,
+		"annual_heating_load": 1837.14,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit Bid 2: Raeburn Road",
+	"property_code": "TSB080",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 79.26,
+		"ber": 13.55,
+		"ter": 23.85,
+		"total_volume": 192.69,
+		"annual_heating_load": 1837.14,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Shaftesbury Park Terrace",
+	"property_code": "TSB051",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "60.66",
+		"event_type": "post",
+		"total_volume": "155.47",
+		"annual_heating_load": "1355.86"
+	}, {
+		"gross_internal_area": "60.66",
+		"event_type": "pre",
+		"total_volume": "155.47"
+	}, {
+		"gross_internal_area": "60.66",
+		"event_type": "planned",
+		"total_volume": "155.47",
+		"annual_heating_load": "1355.86"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Metropolitan Housing Trust London",
+	"property_code": "TSB059",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "109.0",
+		"ber": "42.23",
+		"ter": "18.23",
+		"event_type": "pre",
+		"total_volume": "283.0",
+		"annual_heating_load": "4786.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "109.0",
+		"ber": "13.87",
+		"ter": "18.23",
+		"event_type": "planned",
+		"total_volume": "283.0",
+		"annual_heating_load": "3061.0",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rural Innovation for the Future (RIFF)",
+	"property_code": "TSB003",
+	"property_type": "",
+	"profiles": [{
+		"event_type": "planned"
+	}, {
+		"event_type": "post"
+	}, {
+		"event_type": "pre"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rural Innovation for the Future (RIFF)",
+	"property_code": "TSB004",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "80.5",
+		"event_type": "intervention_1",
+		"total_volume": "204.5",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "80.5",
+		"ber": "73.91",
+		"ter": "32.55",
+		"event_type": "pre",
+		"total_volume": "204.5",
+		"annual_heating_load": "2759.4",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "80.5",
+		"event_type": "post",
+		"total_volume": "204.5",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "80.5",
+		"event_type": "planned",
+		"total_volume": "204.5",
+		"annual_heating_load": "2003.52",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rural Innovation for the Future (RIFF)",
+	"property_code": "TSB002",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "80.5",
+		"ber": "-0.66",
+		"ter": "22.66",
+		"event_type": "planned",
+		"total_volume": "204.5",
+		"annual_heating_load": "2759.4",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "80.5",
+		"ber": "73.91",
+		"ter": "32.55",
+		"event_type": "post",
+		"total_volume": "204.5",
+		"annual_heating_load": "2759.4",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "80.5",
+		"ber": "73.91",
+		"ter": "32.55",
+		"event_type": "pre",
+		"total_volume": "204.5",
+		"annual_heating_load": "2759.4",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Existing technology with new modifications ",
+	"property_code": "TSB075",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "76.0",
+		"ber": "7.98",
+		"ter": "18.32",
+		"event_type": "post",
+		"total_volume": "184.65",
+		"annual_heating_load": "1831.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "76.0",
+		"ber": "7.98",
+		"ter": "18.32",
+		"event_type": "planned",
+		"total_volume": "184.65",
+		"annual_heating_load": "1831.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "76.0",
+		"ber": "52.6",
+		"ter": "18.32",
+		"event_type": "pre",
+		"total_volume": "184.65",
+		"annual_heating_load": "2684.0",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Barbrook PassivHaus Retrofit",
+	"property_code": "TSB069",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": "71.2",
+		"event_type": "planned",
+		"total_volume": "214.42",
+		"annual_heating_load": "1835.0"
+	}, {
+		"gross_internal_area": "71.2",
+		"event_type": "pre",
+		"total_volume": "214.42"
+	}, {
+		"gross_internal_area": "71.2",
+		"event_type": "post",
+		"total_volume": "214.42",
+		"annual_heating_load": "1835.0"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Barbrook PassivHaus Retrofit",
+	"property_code": "TSB068",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "71.2",
+		"event_type": "post",
+		"total_volume": "214.42"
+	}, {
+		"gross_internal_area": "71.2",
+		"event_type": "planned",
+		"total_volume": "214.42",
+		"annual_heating_load": "1835.0"
+	}, {
+		"gross_internal_area": "71.2",
+		"event_type": "pre",
+		"total_volume": "214.42"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit Bid",
+	"property_code": "TSB082",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 68.61,
+		"ber": 15.56,
+		"ter": 26.17,
+		"total_volume": 158.1,
+		"annual_heating_load": 1318.61,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit Bid",
+	"property_code": "TSB081",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": 68.61,
+		"ber": 15.56,
+		"ter": 26.17,
+		"total_volume": 158.1,
+		"annual_heating_load": 1318.61,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit 1: Coach Rd",
+	"property_code": "TSB078",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 78.5,
+		"ber": 14.46,
+		"ter": 23.98,
+		"total_volume": 191.2,
+		"annual_heating_load": 1615.15,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Gentoo Retrofit 1: Coach Rd",
+	"property_code": "TSB077",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 78.5,
+		"ber": 14.46,
+		"ter": 23.98,
+		"total_volume": 191.18,
+		"annual_heating_load": 1615.15,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Eco-retrofit Bolton",
+	"property_code": "TSB032",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "106.47",
+		"event_type": "planned",
+		"total_volume": "219.77",
+		"annual_heating_load": "3152.13",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "106.47",
+		"event_type": "pre",
+		"total_volume": "219.77",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "106.47",
+		"event_type": "post",
+		"total_volume": "219.77",
+		"annual_heating_load": "3152.13",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "70's Terrace (Four Houses)",
+	"property_code": "TSB102",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "70's Terrace (Four Houses)",
+	"property_code": "TSB104",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "70's Terrace (Four Houses)",
+	"property_code": "TSB105",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 89,
+		"ber": null,
+		"ter": null,
+		"total_volume": 247.35,
+		"annual_heating_load": 2350.18,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "70's Terrace (Four Houses)",
+	"property_code": "TSB103",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "yorkshire housing",
+	"property_code": "TSB116",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "80.0",
+		"event_type": "pre",
+		"total_volume": "189.2",
+		"annual_heating_load": "4619.61",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "80.0",
+		"ber": "8.67",
+		"event_type": "planned",
+		"total_volume": "189.2",
+		"annual_heating_load": "3141.33",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "80.0",
+		"ber": "8.67",
+		"event_type": "post",
+		"total_volume": "189.2",
+		"annual_heating_load": "3141.33",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Bloom Court",
+	"property_code": "Unit 2",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Bloom Court",
+	"property_code": "Unit 1",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rotherham 2010: Wath road, Brampton",
+	"property_code": "TSB014",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "79.54",
+		"event_type": "post",
+		"total_volume": "203.28",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "79.54",
+		"event_type": "intervention_1",
+		"total_volume": "203.28",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "79.54",
+		"event_type": "planned",
+		"total_volume": "203.28",
+		"annual_heating_load": "3645.52",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "79.54",
+		"ter": "37.09",
+		"event_type": "pre",
+		"total_volume": "203.28",
+		"annual_heating_load": "3253.0",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rotherham 2010: Wath road, Brampton",
+	"property_code": "TSB013",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "79.54",
+		"event_type": "post",
+		"total_volume": "203.28",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "79.54",
+		"ber": "33.76",
+		"event_type": "pre",
+		"total_volume": "203.28",
+		"annual_heating_load": "3253.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "79.54",
+		"event_type": "planned",
+		"total_volume": "203.28",
+		"annual_heating_load": "3645.52",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Rotherham 2010: Wath road, Brampton",
+	"property_code": "TSB017",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "79.54",
+		"ber": "37.36",
+		"event_type": "pre",
+		"total_volume": "203.28",
+		"annual_heating_load": "3253.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "79.54",
+		"event_type": "post",
+		"total_volume": "203.28",
+		"annual_heating_load": "3645.52",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "79.54",
+		"event_type": "planned",
+		"total_volume": "203.28",
+		"annual_heating_load": "3645.52",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Hockerton Housing Project",
+	"property_code": "TSB023",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "83.84",
+		"ber": "67.5",
+		"event_type": "pre",
+		"total_volume": "201.22",
+		"annual_heating_load": "4691.66",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "83.84",
+		"ber": "22.07",
+		"event_type": "post",
+		"total_volume": "201.22",
+		"annual_heating_load": "2696.28",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "83.84",
+		"ber": "22.07",
+		"event_type": "planned",
+		"total_volume": "201.22",
+		"annual_heating_load": "2696.28",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Hockerton Housing Project",
+	"property_code": "TSB022",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "83.84",
+		"ber": "67.5",
+		"event_type": "pre",
+		"total_volume": "201.22",
+		"annual_heating_load": "4691.66",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "83.84",
+		"ber": "22.07",
+		"event_type": "planned",
+		"total_volume": "201.22",
+		"annual_heating_load": "2696.28",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "83.84",
+		"ber": "22.07",
+		"event_type": "post",
+		"total_volume": "201.22",
+		"annual_heating_load": "2696.28",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Solutions for a Holistic Optimal Retrofit (SHOR) - 1980s urban end of terrace house ",
+	"property_code": "TSB060",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "67.0",
+		"ber": "1.86",
+		"event_type": "planned",
+		"total_volume": "154.0",
+		"annual_heating_load": "24.0",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "56.0",
+		"ber": "72.0",
+		"event_type": "pre",
+		"total_volume": "130.0",
+		"annual_heating_load": "57.0",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "56.0",
+		"ber": "72.0",
+		"event_type": "post",
+		"total_volume": "130.0",
+		"annual_heating_load": "855.0",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Stone Pit Lane - Whole house refurbishment of an off-gas 1930s 3-bed semi with advanced levels of energy efficiency, supplemented by an innovative air source heat pump",
+	"property_code": "TSB097",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "planned"
+	}, {
+		"event_type": "post"
+	}, {
+		"event_type": "pre"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Tigh-Na-Cladach affordable housing: 1 Passivhaus home & 2 low-energy homes",
+	"property_code": "Plot TA2",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "120",
+		"ber": "31.96",
+		"ter": "36.01",
+		"event_type": "As designed",
+		"occupancy_total": "3",
+		"total_volume": "340",
+		"annual_heating_load": "3086",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "120",
+		"ber": "Under the Scottish Regulations DEC�s are not required and therefore as built SAP assessment is not undertaken",
+		"event_type": "As built",
+		"occupancy_total": "3",
+		"total_volume": "340",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Tigh-Na-Cladach affordable housing: 1 Passivhaus home & 2 low-energy homes",
+	"property_code": "Plot TB1",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "104",
+		"ber": "Under the Scottish Regulations DEC�s are not required and therefore as built SAP assessment is not undertaken",
+		"event_type": "As built",
+		"occupancy_total": "3",
+		"total_volume": "301.6",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "104",
+		"ber": "Not used - default appraoch",
+		"ter": "Not used - default appraoch",
+		"event_type": "As designed",
+		"occupancy_total": "3",
+		"total_volume": "301.6",
+		"annual_heating_load": "1404",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Tigh-Na-Cladach affordable housing: 1 Passivhaus home & 2 low-energy homes",
+	"property_code": "Plot TA1",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "120",
+		"ber": "31.96",
+		"ter": "36.01",
+		"event_type": "As designed",
+		"occupancy_total": "5",
+		"total_volume": "340",
+		"annual_heating_load": "3086",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "120",
+		"ber": "Under the Scottish Regulations DEC�s are not required and therefore as built SAP assessment is not undertaken",
+		"event_type": "As built",
+		"occupancy_total": "5",
+		"total_volume": "340",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Camden Passivhaus",
+	"property_code": "BPE049",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 117.1,
+		"ber": 12.76,
+		"ter": 23.64,
+		"total_volume": 290.49,
+		"annual_heating_load": 22.4,
+		"total_rooms": 8
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 7",
+	"property_type": null,
+	"profiles": [{
+		"gross_internal_area": "65.87",
+		"ber": "13.78",
+		"ter": "30.9",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "66.07",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "257.8",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.78",
+		"ter": "30.9",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "66.07",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "257.8",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 5",
+	"property_type": null,
+	"profiles": [{
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 2",
+	"property_type": null,
+	"profiles": [{
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.7",
+		"ber": "12.24",
+		"ter": "28.24",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.7",
+		"ber": "12.24",
+		"ter": "28.24",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 4",
+	"property_type": null,
+	"profiles": [{
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 6",
+	"property_type": null,
+	"profiles": [{
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "PassivHaus Bungalow Development, Racecourse Estate, Houghton-le-Spring",
+	"property_code": "Dwelling 3",
+	"property_type": null,
+	"profiles": [{
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "65.87",
+		"ber": "13.28",
+		"ter": "28.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "243.72",
+		"total_rooms": "5"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"event_type": "As designed"
+	}, {
+		"gross_internal_area": "65.7",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "246.2",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dungannon Passivhaus",
+	"property_code": "House 2",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dungannon Passivhaus",
+	"property_code": "House 1",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Knights Place Passivhaus Housing for Exeter City Council",
+	"property_code": "BPE027_BI78",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Knights Place Passivhaus Housing for Exeter City Council",
+	"property_code": "BPE028_BI78",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Knights Place Passivhaus Housing for Exeter City Council",
+	"property_code": "BPE026_BI78",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "In-use and Post Occupancy Evaluation in Low Carbon Apartments",
+	"property_code": "Flat A",
+	"property_type": null,
+	"profiles": [{
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "85.19",
+		"ber": "14.02",
+		"ter": "35.38",
+		"event_type": "As built",
+		"total_volume": "198.49",
+		"annual_heating_load": "2988",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "76.35",
+		"ber": "16.94",
+		"ter": "31.74",
+		"event_type": "As designed",
+		"occupancy_total": "20",
+		"total_volume": "183.24",
+		"annual_heating_load": "2942",
+		"total_rooms": "6"
+	}, {
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "85.19",
+		"ber": "14.02",
+		"ter": "35.38",
+		"event_type": "As built",
+		"total_volume": "198.49",
+		"annual_heating_load": "2988",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "76.35",
+		"ber": "16.94",
+		"ter": "31.74",
+		"event_type": "As designed",
+		"occupancy_total": "20",
+		"total_volume": "183.24",
+		"annual_heating_load": "2942",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "In-use and Post Occupancy Evaluation in Low Carbon Apartments",
+	"property_code": "Flat B",
+	"property_type": null,
+	"profiles": [{
+		"gross_internal_area": "66.18",
+		"ber": "15.84",
+		"ter": "40.3",
+		"event_type": "As built",
+		"total_volume": "158.83",
+		"annual_heating_load": "2691",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "64.26",
+		"ber": "17.01",
+		"ter": "31.15",
+		"event_type": "As designed",
+		"occupancy_total": "20",
+		"total_volume": "154.22",
+		"annual_heating_load": "2751",
+		"total_rooms": "6"
+	}, {
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "66.18",
+		"ber": "15.84",
+		"ter": "40.3",
+		"event_type": "As built",
+		"total_volume": "158.83",
+		"annual_heating_load": "2691",
+		"total_rooms": "6"
+	}, {
+		"event_type": "As built"
+	}, {
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "64.26",
+		"ber": "17.01",
+		"ter": "31.15",
+		"event_type": "As designed",
+		"occupancy_total": "20",
+		"total_volume": "154.22",
+		"annual_heating_load": "2751",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "66.18",
+		"ber": "15.84",
+		"ter": "40.3",
+		"event_type": "As built",
+		"total_volume": "158.83",
+		"annual_heating_load": "2691",
+		"total_rooms": "6"
+	}, {
+		"gross_internal_area": "64.26",
+		"ber": "17.01",
+		"ter": "31.15",
+		"event_type": "As designed",
+		"occupancy_total": "20",
+		"total_volume": "154.22",
+		"annual_heating_load": "2751",
+		"total_rooms": "6"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "In-use and Post Occupancy Evaluation in Low Carbon Apartments",
+	"property_code": "PlantRoom",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Thamesmead Retrofit House",
+	"property_code": "TSB107",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "174.9",
+		"event_type": "post",
+		"total_volume": "448.81",
+		"total_rooms": "13"
+	}, {
+		"gross_internal_area": "174.9",
+		"event_type": "intervention_1",
+		"total_volume": "448.81",
+		"total_rooms": "13"
+	}, {
+		"gross_internal_area": "154.23",
+		"ber": "111.0",
+		"ter": "22.2",
+		"event_type": "pre",
+		"total_volume": "396.55",
+		"annual_heating_load": "49.5",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "174.9",
+		"ber": "14.0",
+		"ter": "17.0",
+		"event_type": "planned",
+		"total_volume": "448.81",
+		"annual_heating_load": "1600.0",
+		"total_rooms": "13"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Future Works",
+	"property_code": "External Raw Data Archive",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Future Works",
+	"property_code": "Plot 2",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "As built",
+		"occupancy_total": "2 +1 small child"
+	}, {
+		"gross_internal_area": "77.58",
+		"ber": "-0.15",
+		"ter": "25.51",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "187.36",
+		"annual_heating_load": "22.02",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Future Works",
+	"property_code": "Plot 1",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "2050 Now! Achieving the standards for 2050, and the potential role for innovative heating solutions in thermally improved homes",
+	"property_code": "",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "2050 Now! Achieving the standards for 2050, and the potential role for innovative heating solutions in thermally improved homes",
+	"property_code": "TSB121",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 75,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "2050 Now! Achieving the standards for 2050, and the potential role for innovative heating solutions in thermally improved homes",
+	"property_code": "TSB095",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": 187.22,
+		"annual_heating_load": 1864.7,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Wakefield and District Housing Retrofit",
+	"property_code": "TSB021",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "86.64",
+		"event_type": "planned",
+		"total_volume": "217.03",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "86.64",
+		"event_type": "pre",
+		"total_volume": "217.03",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "86.64",
+		"event_type": "post",
+		"total_volume": "217.03",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Wakefield and District Housing Retrofit",
+	"property_code": "TSB018",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "82.6",
+		"ber": "36.45",
+		"event_type": "pre",
+		"total_volume": "201.13",
+		"annual_heating_load": "3270.02",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "82.6",
+		"event_type": "post",
+		"total_volume": "201.13",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "82.6",
+		"event_type": "planned",
+		"total_volume": "201.13",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Wakefield and District Housing Retrofit",
+	"property_code": "TSB019",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "82.6",
+		"event_type": "post",
+		"total_volume": "208.95",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "82.6",
+		"ber": "3.23",
+		"event_type": "pre",
+		"total_volume": "208.95",
+		"annual_heating_load": "3270.02",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "82.6",
+		"event_type": "planned",
+		"total_volume": "208.95",
+		"annual_heating_load": "3192.07",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Low Carbon Sheppey",
+	"property_code": "TSB087",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "74.2",
+		"ber": "-3.61",
+		"ter": "21.98",
+		"event_type": "planned",
+		"total_volume": "189.3",
+		"annual_heating_load": "1835.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "74.2",
+		"ber": "-3.61",
+		"ter": "21.98",
+		"event_type": "post",
+		"total_volume": "189.3",
+		"annual_heating_load": "1835.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "74.2",
+		"ber": "54.85",
+		"ter": "21.98",
+		"event_type": "pre",
+		"total_volume": "189.3",
+		"annual_heating_load": "7141.0",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Low Carbon Sheppey",
+	"property_code": "TSB100",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "83.5",
+		"ber": "-0.8",
+		"ter": "24.12",
+		"event_type": "post",
+		"total_volume": "212.55",
+		"annual_heating_load": "3600.0",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "83.5",
+		"ber": "-0.8",
+		"ter": "24.12",
+		"event_type": "planned",
+		"total_volume": "212.55",
+		"annual_heating_load": "3600.0",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "83.5",
+		"ber": "56.5",
+		"ter": "24.12",
+		"event_type": "pre",
+		"total_volume": "212.55",
+		"annual_heating_load": "3893.0",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Monitoring of the re-development of a Guinness Partnership estate near Rotherham",
+	"property_code": "Property 3A",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "119.95",
+		"ber": "16.07",
+		"ter": "21.48",
+		"event_type": "As designed",
+		"occupancy_total": "7",
+		"total_volume": "306.86",
+		"annual_heating_load": "3640",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "119.95",
+		"event_type": "As built",
+		"occupancy_total": "up to 6",
+		"total_volume": "306.86",
+		"total_rooms": "10"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Monitoring of the re-development of a Guinness Partnership estate near Rotherham",
+	"property_code": "Property 5B",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Monitoring of the re-development of a Guinness Partnership estate near Rotherham",
+	"property_code": "Property 5A",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "114.12",
+		"ber": "3.01",
+		"event_type": "As built",
+		"occupancy_total": "up to 6",
+		"total_volume": "289.59",
+		"annual_heating_load": "2396.75",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "114.12",
+		"ber": "-0.35",
+		"ter": "33.29",
+		"event_type": "As designed",
+		"occupancy_total": "5",
+		"total_volume": "289.59",
+		"annual_heating_load": "1994.67",
+		"total_rooms": "10"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Monitoring of the re-development of a Guinness Partnership estate near Rotherham",
+	"property_code": "Property 3B",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "119.95",
+		"ber": "16.07",
+		"ter": "21.48",
+		"event_type": "As designed",
+		"occupancy_total": "7",
+		"total_volume": "306.86",
+		"annual_heating_load": "3640",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "119.95",
+		"event_type": "As built",
+		"occupancy_total": "3",
+		"total_volume": "306.86",
+		"total_rooms": "10"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Aberfawr Terrace. Caerphilly",
+	"property_code": "TSB1215",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Aberfawr Terrace. Caerphilly",
+	"property_code": "TSB1214",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Aberfawr Terrace. Caerphilly",
+	"property_code": "TSB1216",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Aberfawr Terrace. Caerphilly",
+	"property_code": "TSB1218",
+	"property_type": "Weather data",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Aberfawr Terrace. Caerphilly",
+	"property_code": "TSB1213",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 48.8,
+		"ber": 11.44,
+		"ter": 36.57,
+		"total_volume": 117.1,
+		"annual_heating_load": 2111,
+		"total_rooms": 5
+	}]
+}, {
+	"programme_name": "Retrofit for the Future (data caution)",
+	"project_name": "Development of an integrated Ground / Air / Solar Heat Pump for plug in retrofit",
+	"property_code": "TSB064",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 69.98,
+		"ber": 16.87,
+		"ter": 32.11,
+		"total_volume": 167.95,
+		"annual_heating_load": 2690,
+		"total_rooms": 5
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Yorkshire Housing ",
+	"property_code": "TSB114",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "74.8",
+		"ber": "26.79",
+		"event_type": "post",
+		"total_volume": "215.8",
+		"annual_heating_load": "2692.83",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "74.8",
+		"event_type": "planned",
+		"total_volume": "215.8",
+		"annual_heating_load": "1927.42",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "74.8",
+		"ber": "83.03",
+		"event_type": "pre",
+		"total_volume": "215.8",
+		"annual_heating_load": "3061.99",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "Yorkshire Housing ",
+	"property_code": "TSB115",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "72.0",
+		"ber": "26.47",
+		"event_type": "post",
+		"total_volume": "196.92",
+		"annual_heating_load": "3016.4",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "72.0",
+		"event_type": "planned",
+		"total_volume": "196.92",
+		"annual_heating_load": "1927.42",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "72.0",
+		"ber": "80.15",
+		"event_type": "pre",
+		"total_volume": "196.92",
+		"annual_heating_load": "3016.4",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Centenary Quay Post Occupancy Study",
+	"property_code": "Plot 120",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": 103.3,
+		"ber": 10.76,
+		"ter": 18.64,
+		"total_volume": 271.39,
+		"annual_heating_load": 2143.28,
+		"total_rooms": 13
+	}, {
+		"gross_internal_area": "103.32",
+		"ber": "10.76",
+		"ter": "18.64",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "271.39",
+		"annual_heating_load": "2143.28",
+		"total_rooms": "13"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Centenary Quay Post Occupancy Study",
+	"property_code": "External conditions data",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Centenary Quay Post Occupancy Study",
+	"property_code": "Plot 119",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "103.32",
+		"ber": "10.76",
+		"ter": "18.64",
+		"event_type": "As designed",
+		"occupancy_total": "3 + frequent guests",
+		"total_volume": "271.39",
+		"annual_heating_load": "2143.28",
+		"total_rooms": "13"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Centenary Quay Post Occupancy Study",
+	"property_code": "Plot 118",
+	"property_type": "House",
+	"profiles": [{
+		"event_type": "As built"
+	}, {
+		"gross_internal_area": "103.32",
+		"ber": "10.71",
+		"ter": "18.64",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "271.39",
+		"annual_heating_load": "2143.28",
+		"total_rooms": "13"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Code 5 Housing Study, Cross Street, Gainsborough",
+	"property_code": "450105_a",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 64,
+		"ber": -1.912,
+		"ter": null,
+		"total_volume": 161,
+		"annual_heating_load": 2113.81,
+		"total_rooms": 5
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Code 5 Housing Study, Cross Street, Gainsborough",
+	"property_code": "450105_d",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 98.28,
+		"ber": -0.9019,
+		"ter": null,
+		"total_volume": 252.252,
+		"annual_heating_load": 2446.94,
+		"total_rooms": 9
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Code 5 Housing Study, Cross Street, Gainsborough",
+	"property_code": "450105_b",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 70.56,
+		"ber": -0.4022,
+		"ter": null,
+		"total_volume": 176.4,
+		"annual_heating_load": 2198.65,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Code 5 Housing Study, Cross Street, Gainsborough",
+	"property_code": "450105_c",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": 64.68,
+		"ber": -1.5701,
+		"ter": null,
+		"total_volume": 161.7,
+		"annual_heating_load": 2111.72,
+		"total_rooms": 6
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling C",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.3",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling D",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.3",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling A",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.3",
+		"ber": "8.7",
+		"ter": "20.8",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "8.7",
+		"ter": "20.8",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "20.8",
+		"ter": "8.7",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "8.7",
+		"ter": "20.8",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "20.8",
+		"ter": "8.7",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "20.8",
+		"ter": "8.7",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling F",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.3",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"ber": "9.72",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"annual_heating_load": "2894.3",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling Coheated",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "65",
+		"ber": "9.41",
+		"event_type": "As designed",
+		"total_volume": "170.5",
+		"annual_heating_load": "3254.6",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "65",
+		"ber": "9.41",
+		"event_type": "As built",
+		"total_volume": "170.5",
+		"annual_heating_load": "3254.6",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "One Brighton - ongoing monitoring",
+	"property_code": "Dwelling B",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "45.3",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "45.3",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "119",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dormont Park PassivHaus Project",
+	"property_code": "Oak",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dormont Park PassivHaus Project",
+	"property_code": "Birch",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dormont Park PassivHaus Project",
+	"property_code": "Hazel",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Dormont Park PassivHaus Project",
+	"property_code": "Cherry",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Building Performance of High Density Apartments: Andre Street, London",
+	"property_code": "BPE1156",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 49.19,
+		"ber": 26.83,
+		"ter": 39.9,
+		"total_volume": 118.1,
+		"annual_heating_load": 1353.18,
+		"total_rooms": 4
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Building Performance of High Density Apartments: Andre Street, London",
+	"property_code": "BPE1155",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": 87.4,
+		"ber": 24.15,
+		"ter": 17.85,
+		"total_volume": 209.76,
+		"annual_heating_load": 2976.22,
+		"total_rooms": 7
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "One Planet Sutton Retrofit",
+	"property_code": "TSB119",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "62.0",
+		"ber": "87.0",
+		"event_type": "pre",
+		"total_volume": "155.0",
+		"annual_heating_load": "5800.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "62.0",
+		"event_type": "planned",
+		"total_volume": "155.0",
+		"annual_heating_load": "1844.04",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "62.0",
+		"event_type": "post",
+		"total_volume": "155.0",
+		"annual_heating_load": "1844.04",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "One Planet Sutton Retrofit",
+	"property_code": "TSB 118",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "70.0",
+		"event_type": "pre",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Retrofit for the Future",
+	"project_name": "One Planet Sutton Retrofit",
+	"property_code": "TSB117",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "73.7",
+		"ber": "14.0",
+		"event_type": "planned",
+		"total_volume": "151.4",
+		"annual_heating_load": "1844.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "73.7",
+		"ber": "14.0",
+		"event_type": "post",
+		"total_volume": "151.4",
+		"annual_heating_load": "1844.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "73.7",
+		"ber": "36.0",
+		"event_type": "pre",
+		"total_volume": "151.4",
+		"annual_heating_load": "29.0",
+		"total_rooms": "7"
+	}, {
+		"gross_internal_area": "73.7",
+		"ber": "14.0",
+		"event_type": "intervention_1",
+		"total_volume": "151.4",
+		"annual_heating_load": "1844.0",
+		"total_rooms": "7"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 4",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "107.3",
+		"ber": "7.77",
+		"ter": "22.87",
+		"event_type": "As built",
+		"occupancy_total": "1",
+		"total_volume": "283.19",
+		"annual_heating_load": "4052.95",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "107.3",
+		"ber": "9.69",
+		"ter": "20.2",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "283.19",
+		"annual_heating_load": "4052.95",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 3",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "107.6",
+		"ber": "7.79",
+		"ter": "22.87",
+		"event_type": "As built",
+		"occupancy_total": "3",
+		"total_volume": "283.88",
+		"annual_heating_load": "4058.44",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "107.6",
+		"ber": "9.72",
+		"ter": "20.21",
+		"event_type": "As designed",
+		"occupancy_total": "3",
+		"total_volume": "283.88",
+		"annual_heating_load": "4058.44",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 6",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 2",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "107.3",
+		"ber": "9.69",
+		"ter": "20.2",
+		"event_type": "As designed",
+		"occupancy_total": "3",
+		"total_volume": "283.19",
+		"annual_heating_load": "4052.95",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "107.3",
+		"ber": "7.77",
+		"ter": "22.87",
+		"event_type": "As built",
+		"total_volume": "283.19",
+		"annual_heating_load": "4052.95",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 7",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 5",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 1",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "123.8",
+		"ber": "10.42",
+		"ter": "20.52",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "328.73",
+		"annual_heating_load": "4347.67",
+		"total_rooms": "11"
+	}, {
+		"gross_internal_area": "123.8",
+		"ber": "8.47",
+		"ter": "22.87",
+		"event_type": "As built",
+		"occupancy_total": "2",
+		"total_volume": "328.73",
+		"annual_heating_load": "4347.67",
+		"total_rooms": "11"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Green Street",
+	"property_code": "Property 8",
+	"property_type": "House",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 1",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 10",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 5",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 8",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 5",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 7",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 12",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 4",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 9",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 11",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 6",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 8",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 4",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 2",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 12",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats",
+	"property_code": "Block B Flat 10",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 11",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 3",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 9",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 2",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 7",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block B Flat 3",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats. Phase 2",
+	"property_code": "Block C Flat 6",
+	"property_type": null,
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Rowner Renwal Fabric Energy Efficiency Standard flats",
+	"property_code": "B1",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "Weather data",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "Communal gas boiler",
+	"profiles": []
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "A1 - Plot 3",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "109.6",
+		"ber": "21.75",
+		"ter": "21.78",
+		"event_type": "As designed",
+		"occupancy_total": "6",
+		"total_volume": "284.4",
+		"annual_heating_load": "3484",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "109.6",
+		"event_type": "As built",
+		"total_volume": "284.4",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "109.6",
+		"ber": "Under the Scottish Regulations DEC�s are not required and therefore as built SAP assessment is not undertaken",
+		"event_type": "As built",
+		"occupancy_total": "6",
+		"total_volume": "284.4",
+		"total_rooms": "10"
+	}, {
+		"gross_internal_area": "109.6",
+		"ber": "21.75",
+		"ter": "21.78",
+		"event_type": "As designed",
+		"occupancy_total": "6",
+		"total_volume": "284.4",
+		"annual_heating_load": "3483.52",
+		"total_rooms": "10"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "C1 - Plot 4.3",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "50.7",
+		"ber": "31.96",
+		"ter": "36.01",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "122",
+		"annual_heating_load": "1899",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "50.7",
+		"event_type": "As built",
+		"total_volume": "122",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "D2 - Plot 8",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "76",
+		"event_type": "As built",
+		"total_volume": "197.6",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "76",
+		"ber": "4.78",
+		"ter": "7.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "197.6",
+		"annual_heating_load": "3090",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "D1 - Plot 8",
+	"property_type": "Flat",
+	"profiles": [{
+		"gross_internal_area": "76",
+		"event_type": "As built",
+		"total_volume": "197.6",
+		"total_rooms": "5"
+	}, {
+		"gross_internal_area": "76",
+		"ber": "4.78",
+		"ter": "7.56",
+		"event_type": "As designed",
+		"occupancy_total": "2",
+		"total_volume": "197.6",
+		"annual_heating_load": "3090",
+		"total_rooms": "5"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "A2 - Plot 3",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "109.6",
+		"event_type": "As built",
+		"total_volume": "284.4",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "109.6",
+		"ber": "20.83",
+		"ter": "20.83",
+		"event_type": "As designed",
+		"occupancy_total": "5",
+		"total_volume": "284.4",
+		"annual_heating_load": "3484",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "B2 - Plot 4.2",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "89.93",
+		"ber": "20.19",
+		"ter": "23.49",
+		"event_type": "As designed",
+		"occupancy_total": "4",
+		"total_volume": "229.72",
+		"annual_heating_load": "3246",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "89.93",
+		"event_type": "As built",
+		"total_volume": "229.72",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "C2 - Plot 4.3",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "125.4",
+		"ber": "25.82",
+		"ter": "28.75",
+		"event_type": "As designed",
+		"occupancy_total": "1",
+		"total_volume": "301",
+		"annual_heating_load": "3029",
+		"total_rooms": "8"
+	}, {
+		"gross_internal_area": "125.4",
+		"event_type": "As built",
+		"total_volume": "301",
+		"total_rooms": "8"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "B1 - Plot 4.2",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": "89.93",
+		"ber": "19.94",
+		"ter": "23.38",
+		"event_type": "As designed",
+		"occupancy_total": "3",
+		"total_volume": "229.72",
+		"annual_heating_load": "3246",
+		"total_rooms": "9"
+	}, {
+		"gross_internal_area": "89.93",
+		"event_type": "As built",
+		"total_volume": "229.72",
+		"total_rooms": "9"
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Scotland's Design Expo",
+	"property_code": "Fiscal Meter - All dwellings",
+	"profiles": []
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP18",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP33",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP31",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP17",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP24",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP20",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP06",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP28",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP11",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP13",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP27",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP15",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP04",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP16",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP14",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP08",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Energy Saving Trust Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP32",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP29",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP10",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP07",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP23",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP25",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP26",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP30",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP03",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP01",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP09",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP12",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP21",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP22",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP02",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP05",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Smart Metering Advice Project (SMAP)",
+	"project_name": "Smart Metering Advice Project",
+	"property_code": "SMAP19",
+	"property_type": "",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}, {
+	"programme_name": "Building Performance Evaluation",
+	"project_name": "Performance Evaluation of Highfield ultra-low carbon home",
+	"property_code": "450094",
+	"property_type": "House",
+	"profiles": [{
+		"gross_internal_area": null,
+		"ber": null,
+		"ter": null,
+		"total_volume": null,
+		"annual_heating_load": null,
+		"total_rooms": null
+	}]
+}]
