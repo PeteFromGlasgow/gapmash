@@ -34,11 +34,167 @@ function createProperty(property) {
   	
 }
 
-router.get('/profiles', function(req, res, next){
+router.get('/properties', function(req, res, next){
 	db.Property.findAll().then(function (properties) {
 	    res.render('properties', {
 	      title: 'GAP Analysis',
 	      properties: properties
+	    });
+	  });
+});
+
+router.get('/graph', function(req, res, next){
+	db.Property.findAll().then(function (properties) {
+	    res.render('graph', {
+	      title: 'GAP Analysis',
+	      properties: properties
+	    });
+	  });
+});
+
+router.get('/bercomparison', function(req, res, next){
+	var outObj = {
+		"columns": []
+	}
+	var berDesign = ["Designed"];
+	var berBuilt = ["Built"]
+	db.Profile.findAll().then(function (profiles) {
+	    
+	    var outmap = new Map();
+	   	for (var i = 0; i < profiles.length; i++) {
+	   		var profile = profiles[i];
+	   		if (!outmap.has(profile.PropertyId)){
+	   			outmap.set(profile.PropertyId, {propid: profile.PropertyId});
+	   		}
+	   		var object = outmap.get(profile.PropertyId);
+	   		if (profile.event_type == "As designed") {
+	   			try {
+	   				object.designed = parseFloat(profile.ber);
+	   			} catch (e) {
+
+	   			}
+	   			
+	   		}
+	   		if (profile.event_type == "As built"){
+	   			try {
+	   				object.built = parseFloat(profile.ber);
+	   			} catch (e) {
+
+	   			}
+	   		}	
+	   		outmap.set(profile.PropertyId, object);
+	   	};
+	   	var allVals = outmap.values();
+
+	    for (var obj of allVals) {
+	   		if (obj.built && obj.designed){
+	   			berDesign.push(obj.designed);
+	   			berBuilt.push(obj.built);
+	   		}
+	   	};
+	   	outObj.columns.push(berDesign);
+	   	outObj.columns.push(berBuilt);
+	   	res.send(outObj.columns)
+	  });
+});
+
+router.get('/tercomparison', function(req, res, next){
+	var outObj = {
+		"columns": []
+	}
+	var terDesign = ["Designed"];
+	var terBuilt = ["Built"]
+	db.Profile.findAll().then(function (profiles) {
+	    
+	    var outmap = new Map();
+	   	for (var i = 0; i < profiles.length; i++) {
+	   		var profile = profiles[i];
+	   		if (!outmap.has(profile.PropertyId)){
+	   			outmap.set(profile.PropertyId, {propid: profile.PropertyId});
+	   		}
+	   		var object = outmap.get(profile.PropertyId);
+	   		if (profile.event_type == "As designed") {
+	   			try {
+	   				object.designed = parseFloat(profile.ter);
+	   			} catch (e) {
+
+	   			}
+	   			
+	   		}
+	   		if (profile.event_type == "As built"){
+	   			try {
+	   				object.built = parseFloat(profile.ter);
+	   			} catch (e) {
+
+	   			}
+	   		}	
+	   		outmap.set(profile.PropertyId, object);
+	   	};
+	   	var allVals = outmap.values();
+
+	    for (var obj of allVals) {
+	   		if (obj.built && obj.designed){
+	   			terDesign.push(obj.designed);
+	   			terBuilt.push(obj.built);
+	   		}
+	   	};
+	   	outObj.columns.push(terDesign);
+	   	outObj.columns.push(terBuilt);
+	   	res.send(outObj.columns)
+	  });
+});
+
+router.get('/loadcomparison', function(req, res, next){
+	var outObj = {
+		"columns": []
+	}
+	var loadDesign = ["Designed"];
+	var loadBuilt = ["Built"]
+	db.Profile.findAll().then(function (profiles) {
+	    
+	    var outmap = new Map();
+	   	for (var i = 0; i < profiles.length; i++) {
+	   		var profile = profiles[i];
+	   		if (!outmap.has(profile.PropertyId)){
+	   			outmap.set(profile.PropertyId, {propid: profile.PropertyId});
+	   		}
+	   		var object = outmap.get(profile.PropertyId);
+	   		if (profile.event_type == "As designed") {
+	   			try {
+	   				object.designed = parseFloat(profile.load);
+	   			} catch (e) {
+
+	   			}
+	   			
+	   		}
+	   		if (profile.event_type == "As built"){
+	   			try {
+	   				object.built = parseFloat(profile.load);
+	   			} catch (e) {
+
+	   			}
+	   		}	
+	   		outmap.set(profile.PropertyId, object);
+	   	};
+	   	var allVals = outmap.values();
+
+	    for (var obj of allVals) {
+	   		if (obj.built && obj.designed){
+	   			loadDesign.push(obj.designed);
+	   			loadBuilt.push(obj.built);
+	   		}
+	   	};
+	   	outObj.columns.push(loadDesign);
+	   	outObj.columns.push(loadBuilt);
+	   	res.send(outObj.columns)
+	  });
+});
+
+router.get('/properties/:id/profiles', function(req, res, next){
+	db.Profile.findAll({where: {PropertyId: req.params.id}}).then(function (profiles) {
+	    res.render('profiles', {
+	      title: 'GAP Analysis',
+	      profiles: profiles
 	    });
 	  });
 });

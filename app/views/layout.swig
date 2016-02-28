@@ -8,6 +8,10 @@
   {% if ENV_DEVELOPMENT %}
     <script src="http://localhost:35729/livereload.js"></script>
   {% endif %}
+  <script src="/components/jquery/dist/jquery.min.js"></script>
+  <script src="/components/foundation/js/foundation.min.js"></script>
+  <script src="/components/d3/d3.min.js"></script>
+  <script src="/components/c3/c3.min.js"></script>
 </head>
 <body>
 
@@ -24,9 +28,7 @@
     </div>
   {% block content %}{% endblock %}
 
-  <script type="text/javascript"></script>
-    <script src="public/components/jquery/dist/jquery.min.js"></script>
-    <script src="public/components/foundation/js/foundation.min.js"></script>
-    <script src="public/components/foundation.min.js"></script>
+
+
 </body>
 </html>
