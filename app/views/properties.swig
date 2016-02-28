@@ -9,7 +9,11 @@
   		</thead>
   		<tbody>
   			{% for item in properties %}
-  			    <tr>
+  				{% if item.profile_count == 0 %}
+	  			    <tr style="cursor: pointer; background:pink" onclick="window.location.href = '/properties/{{item.id}}/profiles'">
+  			    {% else %}
+	  			    <tr style="cursor: pointer;" onclick="window.location.href = '/properties/{{item.id}}/profiles'">
+  				{% endif %}
   			    	<td>{{item.programme_name}}</td>
   			    	<td>{{item.project_name}}</td>
   			    	<td>{{item.property_code}}</td>

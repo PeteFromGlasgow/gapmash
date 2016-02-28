@@ -20,8 +20,8 @@
     <ul class="dropdown menu" data-dropdown-menu>
       <li class="menu-text">{{title}}</li>
       <li><a href="#">Add Entry</a></li>
-  	  <li><a href="#">View Dataset</a></li>
-      <li><a href="#">Analyse</a></li>
+  	  <li><a href="/properties">View Dataset</a></li>
+      <li><a href="/graph">Analyse</a></li>
     </ul>
   </div>
 </div>

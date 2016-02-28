@@ -36,11 +36,30 @@ function createProperty(property) {
 
 router.get('/properties', function(req, res, next){
 	db.Property.findAll().then(function (properties) {
-	    res.render('properties', {
-	      title: 'GAP Analysis',
-	      properties: properties
-	    });
-	  });
+		db.sequelize.query("SELECT PropertyId, COUNT(*) AS c FROM `Profiles` GROUP BY PropertyId").then(function(data){
+			var propList = {}
+			for (var i = 0; i < properties.length; i++) {
+				var property = properties[i];
+				propList["prop"+property.id] = property;
+			};
+
+			for (var i = 0; i < data.length; i++) {
+				console.log(data[i])
+				if (propList["prop"+data[i].PropertyId] != null){
+
+					propList["prop"+data[i].PropertyId].profile_count = data[i].c;
+				}
+				
+			};
+			res.render('properties', {
+		      title: 'GAP Analysis',
+		      properties: properties
+		    });
+		  }).error(function(err){
+		  	console.log(err);
+		  })
+		})
+	    
 });
 
 router.get('/graph', function(req, res, next){
@@ -161,7 +180,7 @@ router.get('/loadcomparison', function(req, res, next){
 	   		var object = outmap.get(profile.PropertyId);
 	   		if (profile.event_type == "As designed") {
 	   			try {
-	   				object.designed = parseFloat(profile.load);
+	   				object.designed = parseFloat(profile.annual_heating_load);
 	   			} catch (e) {
 
 	   			}
@@ -169,7 +188,7 @@ router.get('/loadcomparison', function(req, res, next){
 	   		}
 	   		if (profile.event_type == "As built"){
 	   			try {
-	   				object.built = parseFloat(profile.load);
+	   				object.built = parseFloat(profile.annual_heating_load);
 	   			} catch (e) {
 
 	   			}
